@@ -1,0 +1,13 @@
+Input:
+Drug use among students in youth life is a concerning issue that can have serious consequences on their health, well-being, and academic performance. Many students experiment with drugs as they navigate through adolescence and peer pressure. Factors such as curiosity, social influences, and the desire to escape from stress or problems can contribute to drug experimentation among youth. Commonly abused substances include alcohol, marijuana, prescription medications, and illicit drugs like cocaine and ecstasy. While some students may perceive drug use as a way to cope with academic pressure or fit in with peer groups, the short-term and long-term effects of substance abuse can be detrimental. Drug use can impair cognitive function, memory, and decision-making abilities, hindering students' academic progress and future prospects. Moreover, drug abuse can lead to addiction, physical and mental health problems, legal issues, and strained relationships with family and friends. It is crucial for parents, educators, and communities to educate students about the risks and consequences of drug use, provide support networks, and promote healthy alternatives to cope with stress and peer pressure. By fostering open communication, creating safe and supportive environments, and offering resources for prevention and intervention, we can empower students to make informed choices and lead healthy, fulfilling lives free from the harmful effects of drugs.
+Question Count: 3
+
+Output:
+"question": What factors contribute to drug use among students?
+"answer": Factors contributing to drug experimentation among students include curiosity, social influences, and the desire to escape from stress or problems.
+
+"question": What are some commonly used substances?
+"answer": Commonly abused substances among youth include alcohol, marijuana, prescription medications, and illicit drugs like cocaine and ecstasy.
+
+"question": What factors are students afraid of?
+"answer": Students are afraid.

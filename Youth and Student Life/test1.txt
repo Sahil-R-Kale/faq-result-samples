@@ -1,0 +1,13 @@
+Input:
+Student exam pressure is a common phenomenon experienced by students at various stages of their academic journey. It refers to the stress, anxiety, and feelings of overwhelm that students may face as they prepare for and take exams. The pressure to perform well academically, meet expectations, and secure good grades can often lead to heightened levels of stress and tension among students. Factors contributing to exam pressure may include the importance placed on academic success by parents, teachers, and society, as well as the fear of failure, comparison with peers, and uncertainty about the future. Students may experience physical symptoms such as headaches, fatigue, and difficulty sleeping, as well as emotional symptoms such as irritability, mood swings, and lack of concentration. Additionally, the pressure to excel in exams can negatively impact students' mental health and overall well-being, leading to feelings of inadequacy, self-doubt, and burnout. It is important for educators, parents, and policymakers to recognize the signs of exam pressure and provide students with the necessary support, resources, and coping strategies to manage stress effectively. Encouraging open communication, fostering a supportive learning environment, and promoting healthy study habits can help students navigate exam pressure and build resilience to cope with academic challenges in a positive and constructive manner.
+Question Count: 3
+
+Output:
+"question": What is student exam pressure?
+"answer": Student exam pressure refers to the stress, anxiety, and feelings of overwhelm experienced by students as they prepare for and take exams.
+
+"question": What factors are exam pressure?
+"answer": Factors contributing to exam pressure include the importance placed on academic success, fear of failure, comparison with peers, and uncertainty about the future.
+
+"question": Why are exams stressful?
+"answer": Students have exam pressure.
