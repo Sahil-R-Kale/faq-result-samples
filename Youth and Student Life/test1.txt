@@ -10,4 +10,4 @@ Output:
 "answer": Factors contributing to exam pressure include the importance placed on academic success, fear of failure, comparison with peers, and uncertainty about the future.
 
 "question": Why are exams stressful?
-"answer": Students have exam pressure.
+"answer": Exams can be stressful because students face pressure to perform well, meet expectations, and secure good grades.
